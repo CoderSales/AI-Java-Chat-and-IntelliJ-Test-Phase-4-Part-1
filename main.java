@@ -103,3 +103,8 @@ public class PrimeChecker {
     }
 }
 
+// +2 min 0041
+// end 0039 Friday 08/12/2023
+// start 0024 hours Friday 08/12/2023
+
+
